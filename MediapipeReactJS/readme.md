@@ -15,7 +15,7 @@
 - ## Reconhecendo a face: 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/face.png" />
+<img src="https://github.com/brunossaless/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/face.png" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/MaoEsquerda_Face.png" />
+<img src="https://github.com/brunossaless/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/MaoEsquerda_Face.png" />
 
 </div>
 
@@ -31,6 +31,6 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/MaoDireita_Face.png" />
+<img src="https://github.com/brunossaless/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/MaoDireita_Face.png" />
 
 </div>
