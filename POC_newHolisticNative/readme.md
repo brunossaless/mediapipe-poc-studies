@@ -10,7 +10,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/POC_newHolisticNative/img/exemplo.jpg" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/POC_newHolisticNative/img/exemplo.jpg" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/POC_newHolisticNative/img/mediapipe.jfif" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/POC_newHolisticNative/img/mediapipe.jfif" />
 
 </div>
 
