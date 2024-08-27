@@ -10,7 +10,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/POC_NativeModules/img/exemplo.jpg" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/POC_NativeModules/img/exemplo.jpg" />
 
 </div>
 
@@ -19,6 +19,6 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/POC_NativeModules/img/mediapipe.jfif" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/POC_NativeModules/img/mediapipe.jfif" />
 
 </div>
