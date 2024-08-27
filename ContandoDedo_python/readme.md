@@ -8,12 +8,12 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/ContandoDedo_python/.imgs/capture1.png" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/ContandoDedo_python/.imgs/capture1.png" />
 
 </div>
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/ContandoDedo_python/.imgs/capture2.png" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/ContandoDedo_python/.imgs/capture2.png" />
 
 </div>
