@@ -8,6 +8,6 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossales/Mediapipe_Studies/blob/main/Primeiro_exemplo/assets/CapturaBrunoPrimeiroExemplo.png" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/Primeiro_exemplo/assets/CapturaBrunoPrimeiroExemplo.png" />
 
 </div>
