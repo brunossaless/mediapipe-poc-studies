@@ -15,7 +15,7 @@
 - ## Reconhecendo a face: 
 <div align='center'>
 
-<img src="https://github.com/brunossaless/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/face.png" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/MediapipeReactJS/.images/face.png" />
 
 </div>
 
