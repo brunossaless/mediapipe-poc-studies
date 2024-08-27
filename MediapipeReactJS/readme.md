@@ -23,7 +23,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossaless/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/MaoEsquerda_Face.png" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/MediapipeReactJS/.images/MaoEsquerda_Face.png" />
 
 </div>
 
@@ -31,6 +31,6 @@
 
 <div align='center'>
 
-<img src="https://github.com/brunossaless/Mediapipe_Studies/blob/main/MediapipeReactJS/.images/MaoDireita_Face.png" />
+<img src="https://github.com/brunossaless/mediapipe-poc-studies/blob/main/MediapipeReactJS/.images/MaoDireita_Face.png" />
 
 </div>
